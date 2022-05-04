@@ -8,9 +8,15 @@ export const Home = () => {
     <>
       <Header />
       {products.map((item) => {
-        return item.titulo;
+        return (
+          <ProductItem
+            src={item.src}
+            key={item.titulo}
+            preco={item.preco}
+            titulo={item.titulo}
+          />
+        );
       })}
-      <ProductItem />
     </>
   );
 };
