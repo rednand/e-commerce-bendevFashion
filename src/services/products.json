@@ -1,0 +1,19 @@
+[{
+        "titulo": "saia",
+        "src": "/images/poduc.1",
+        "preco": "900"
+    },
+    {
+        "titulo": "Blusa",
+        "src": "/images/poduc.1",
+        "preco": "900"
+    }, {
+        "titulo": "Bolsa",
+        "src": "/images/poduc.1",
+        "preco": "900"
+    }, {
+        "titulo": "Calça",
+        "src": "/images/poduc.1",
+        "preco": "900"
+    }
+]
