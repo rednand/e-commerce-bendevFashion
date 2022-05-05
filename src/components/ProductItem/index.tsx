@@ -1,4 +1,6 @@
 import React from "react";
+import { ProductItemContainer } from "./styles";
+
 interface ProductsProps {
   titulo: string;
   preco: string;
@@ -7,11 +9,11 @@ interface ProductsProps {
 
 function ProductItem({ titulo, preco, src }: ProductsProps) {
   return (
-    <div>
-      <img src={src} alt={titulo} />
+    <ProductItemContainer>
+      <img src={require("../../assets/images/" + src)} alt={titulo} />
       <h2>{titulo}</h2>
       <h3>{preco}</h3>
-    </div>
+    </ProductItemContainer>
   );
 }
 

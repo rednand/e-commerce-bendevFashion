@@ -4,7 +4,6 @@ const HeaderContainer = styled.header`
   display: grid;
   background-color: #e7eaef;
   grid-template-columns: repeat(3, 1fr);
-  width: calc(100% - 16px);
   height: 5rem;
   padding: 16px;
   align-items: center;

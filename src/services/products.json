@@ -1,19 +1,19 @@
 [{
-        "titulo": "saia",
-        "src": "/images/poduc.1",
-        "preco": "900"
+        "titulo": " 21WN reversible angora cardigan",
+        "src": "product1.png",
+        "preco": "$120"
     },
     {
-        "titulo": "Blusa",
-        "src": "/images/poduc.1",
-        "preco": "900"
+        "titulo": " 21WN reversible angora cardigan",
+        "src": "product2.png",
+        "preco": "$120"
     }, {
-        "titulo": "Bolsa",
-        "src": "/images/poduc.1",
-        "preco": "900"
+        "titulo": " 21WN reversible angora cardigan",
+        "src": "product3.png",
+        "preco": "$120"
     }, {
-        "titulo": "Calça",
-        "src": "/images/poduc.1",
-        "preco": "900"
+        "titulo": "Oblong bag",
+        "src": "product4.png",
+        "preco": "$120"
     }
 ]
